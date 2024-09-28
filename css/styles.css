@@ -1,0 +1,197 @@
+body{
+    font-family: "Montserrat-Black", sans-serif;
+}
+
+#title{
+      background-color: #ff4c68;
+      color:white;
+      
+}
+
+
+.container-fluid{
+    padding: 3% 15% 6% 15%;
+}
+h1{
+    font-family: "Montserrat", sans-serif;
+    size: 4.5rem;
+    line-height: 1.5;
+    font-weight: bold;
+    
+}
+
+h2{
+    font-family: "Matserrat-bold";
+    font-size: 3rem;
+    height: 1.5;
+}
+
+p{
+    color: #8f8f8f;
+}
+
+/* navigation bar */
+
+.navbar{
+    padding: 0 0 4.5rem;
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    
+}
+
+.nav-item{
+    padding:0px 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+
+
+/* download buttons */
+
+.d-btn{
+    margin:5% 3% 5% 0%;
+}
+
+/* title image */
+
+.title-image{
+    width: 15rem;
+    transform: rotate(25deg);
+    position:absolute;
+    top: 150px;
+    right: 25%;
+    
+}
+
+
+
+ /* features */
+
+
+ h3{
+    font-family: "Montserrat-Bold";
+
+ }
+
+ 
+
+#features{
+    background-color: #fff;
+   padding:  7% 15%;
+     position: relative;
+     z-index: 1;
+}
+    
+
+
+.feature-box{
+         text-align: center;
+         padding:5%
+}
+
+
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: #ff4c68;
+}
+
+/* testimonials */
+
+#testimonials{
+   
+    background-color: #ef8172;
+    text-align: center;
+    color: white;
+}
+
+.testimonial-img{
+    border-radius: 100%;
+    width: 100px;
+    margin:1rem;
+}
+
+
+  .carousel-item{
+    padding:7% 15%;
+  }
+/* press */
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+}
+
+.press-img{
+    width: 10rem;
+    margin: 15px 20px 50px;
+}
+
+/* pricing */
+
+#pricing{
+    padding:7% 15%;
+    text-align: center;
+}
+
+
+/* media qeuery */
+
+@media (max-width:1002px){
+    .title-image{
+        position:static;
+        transform: rotate(0);
+    }
+
+    #title{
+        text-align: center;
+    }
+}
+
+
+/* last section */
+
+#cta{
+    background-color:  #ff4c68;
+    text-align: center;
+    font-family: "Montserrat-black";
+    padding: 2rem;
+
+
+}
+
+.love{
+    font-size: 3rem;
+    height: 1.5;
+    color: #fff;
+    
+}
+
+
+.bottom-container{
+    padding-top:7.5rem;
+    text-align: center;
+    
+    
+}
+
+.link{
+    color: black;
+    margin:50px 20px;
+}
+.link:hover{
+    color: #ff4c68;
+}
+
+#footer{
+    text-align: center;
+    font-size: 14px;
+}
