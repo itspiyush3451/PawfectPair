@@ -1,8 +1,7 @@
 # 🐾 PawfectPair
 
 <div align="center">
-  
-![PawfectPair Logo](https://raw.githubusercontent.com/itspiyush3451/PawfectPair/main/images/logo.png)
+
 
 **Where Furry Friends Find Love!**
 
@@ -29,9 +28,7 @@
 
 ## 🖼️ Website Preview
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/itspiyush3451/PawfectPair/main/images/screenshot1.png" alt="PawfectPair Screenshot" width="80%">
-</div>
+
 
 ## 🚀 Getting Started
 
